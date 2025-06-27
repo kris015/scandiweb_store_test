@@ -1,0 +1,12 @@
+{
+    "require": {
+        "webonyx/graphql-php": "^14.11",
+        "ext-json": "*",
+        "ext-pdo": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Scandiweb\\": "./"
+        }
+    }
+}
